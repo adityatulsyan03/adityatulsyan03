@@ -24,3 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityatulsyan03&show_icons=true&locale=en" alt="adityatulsyan03" /></p>
 
+![LeetCode Stats](https://leetcode.card.workers.dev/aditya_tulsyan?theme=dark&font=baloo&extension=null)
