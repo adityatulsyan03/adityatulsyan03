@@ -56,7 +56,6 @@
   <a href="https://codeforces.com/profile/aditya_tulsyan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" alt="Codeforces" /></a>
   <a href="https://www.hackerrank.com/tulsyanaditya03" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" alt="HackerRank" /></a>
   <a href="https://auth.geeksforgeeks.org/user/tulsyanaditya03" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" alt="GeeksforGeeks" /></a>
-  <a href="https://stackoverflow.com/users/aditya tulsyan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" alt="Stack Overflow" /></a>
 </p>
 
 ###
