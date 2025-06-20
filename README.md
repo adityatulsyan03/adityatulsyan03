@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityatulsyan03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-###
+### Technical skills
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="43" alt="c logo" />
@@ -31,9 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="43" alt="gradle logo" />
 </div>
 
-###
-
-<h3 align="left">🌐 Connect with Me</h3>
+### 🌐 Connect with Me</h3>
 
 <p align="left">
   
@@ -47,9 +45,7 @@
   <a href="mailto:tulsyanaditya03@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail"/></a>
 </p>
 
-###
-
-<h3 align="left">💻 Competitive & Tech Profiles</h3>
+### 💻 Competitive & Tech Profiles</h3>
 
 <p align="left">
   <a href="https://www.leetcode.com/aditya_tulsyan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" alt="LeetCode" /></a>
@@ -58,12 +54,38 @@
   <a href="https://auth.geeksforgeeks.org/user/tulsyanaditya03" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" alt="GeeksforGeeks" /></a>
 </p>
 
-###
-
-<h3 align="left">📄 Resume</h3>
+### 📄 Resume</h3>
 
 <p align="left">
   <a href="https://drive.google.com/file/d/17jcDdSliuc-yayXQ2Egug6Bmq1msAc8b/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive&logoColor=white" height="28" alt="Resume" />
   </a>
 </p>
+
+### 🚀 Notable Projects
+
+- 📊 **PayFlow**  
+  Finance tracker that reads SMSes to auto-generate Excel-based trial balance sheets. Supports filters by time, bank, and UPI apps.  
+  *Built with Jetpack Compose & Room*
+
+- 📦 **Inventory & Billing System**  
+  Solo-access inventory manager and bill generator with a Spring Boot backend. Owner-controlled secure data access.
+
+- ✉️ **Conversation Email API**  
+  Gmail-like threaded email viewer built with Spring Boot and Gmail API. Secure login with JWT auth.
+
+- 🤖 **ApplyMate** *(In Progress)*  
+  AI-powered assistant for job seekers. Features resume optimization, referral message generator, and job query tools using LangChain & Spring AI.  
+  *RAGs, embeddings, and Gemini integration*
+
+---
+
+### ✅ Achievements & Interests
+
+- 🧠 Spring Boot & Android (Jetpack Compose) enthusiast.  
+- ⚔️ Active CP participant on Codeforces & LeetCode (Handle: *Aditya_Tulsyan*).  
+- 📚 Building projects with LangChain, Gemini, and AI tools.  
+- 🧪 Loves experimenting with clean UI/UX, Room DB, and Firebase.  
+- 🎮 Gamer | 🎧 Lo-fi beats & anime
+
+---
